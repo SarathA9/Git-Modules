@@ -1,3 +1,4 @@
+VERSION CONTROL
 Full step for the Git module
 1: cd #Create a directory.
 2: ls #To view the  hidden files.
@@ -8,3 +9,6 @@ Full step for the Git module
 7: git log #For viewing the commit codes or files.
 8: git status #For the current status.
 9: git add . #For adding every files in the current directory by a single click.
+10: git checkout "file name" # For reverting the last commit back.
+11: git diff "file name" #For knowing the diffrence between the last commit and previous to that.
+
