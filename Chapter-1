@@ -7,3 +7,4 @@ Full step for the Git module
 6: git commit -m"message"
 7: git log #For viewing the commit codes or files.
 8: git status #For the current status.
+9: git add . #For adding every files in the current directory by a single click.
